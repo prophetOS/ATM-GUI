@@ -1,0 +1,3 @@
+#Thu Dec 15 21:20:07 CST 2011
+name=nihao
+pwd=1
